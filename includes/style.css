@@ -1,0 +1,39 @@
+.container {
+  background: #fff;
+  margin-right: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.top-container {
+  width: 100%;
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* justify-content: center;
+  align-items: center; */
+}
+
+.top-logo-img {
+  height: 150px;
+  margin-top: -20px;
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fbm-body-container {
+  padding: 40px;
+}
+
+
+input[type=color] {
+  background: inherit;
+  border: none;
+  border-radius: 5px;
+}
+
+
+.container {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
